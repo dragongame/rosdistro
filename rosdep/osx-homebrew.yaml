@@ -149,6 +149,10 @@ libflann-dev:
   osx:
     homebrew:
       packages: [flann]
+libftdi-dev:
+  osx:
+    homebrew:
+      package: [libftdi]
 libglew-dev:
   osx:
     homebrew:
@@ -327,6 +331,10 @@ protobuf-dev:
   osx:
     homebrew:
       packages: [protobuf]
+pyqt4-dev-tools:
+  osx:
+    homebrew:
+      package: [pyqt]
 python:
   osx:
     homebrew:
