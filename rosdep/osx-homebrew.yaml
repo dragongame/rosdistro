@@ -96,6 +96,10 @@ freetype:
   osx:
     homebrew:
       packages: [freetype]
+ftdi-eeprom:
+  osx:
+    homebrew:
+      package: [libftdi]
 gazebo:
   osx:
     homebrew:
