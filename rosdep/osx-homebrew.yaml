@@ -245,7 +245,7 @@ libtool:
   osx:
     homebrew:
       packages: []
-libusb-1.0-dev:
+libusb-dev:
   osx:
     homebrew:
       packages: [libusb]
